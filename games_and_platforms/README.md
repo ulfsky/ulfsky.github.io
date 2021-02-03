@@ -1,5 +1,7 @@
 **This repository contains projects that have been done for Practicum Yandex100 training program.**
 
+**[Project notebook](https://ulfsky.github.io/games_and_platforms/games_and_platforms.html)**
+
 # Data
 
 — Name <br>
@@ -31,4 +33,4 @@ ____
 - squarify, 
 - plotly
 
-[Project notebook](https://ulfsky.github.io/games_and_platforms/games_and_platforms.html)
+

@@ -1,5 +1,8 @@
 **This repository contains projects that have been done for Practicum Yandex100 training program.**
 
+**[Project notebook](https://ulfsky.github.io/marketing_expences_analysis/marketing_expences_analysis.html)**
+
+
 # Data
 The visits table (server logs with data on website visits):<br>
 Uid — user's unique identifier<br>
@@ -33,4 +36,3 @@ ____
 - scipy, 
 - seaborn 
 
-[Project notebook](https://ulfsky.github.io/marketing_expences_analysis/marketing_expences_analysis.html)

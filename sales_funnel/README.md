@@ -1,5 +1,8 @@
 **This repository contains projects that have been done for Practicum Yandex100 training program.**
 
+**[Project notebook](https://ulfsky.github.io/sales_funnel/sales_funnel.html)**
+
+
 # Data
 
 Each log entry is a user action or an event.<br>
@@ -34,4 +37,3 @@ ____
 - warnings<br>
 
 
-[Project notebook](https://ulfsky.github.io/sales_funnel/sales_funnel.html)

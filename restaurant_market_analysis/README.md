@@ -1,5 +1,8 @@
 **This repository contains projects that have been done for Practicum Yandex100 training program.**
 
+**[Project notebook](https://ulfsky.github.io/restaurant_market_analysis/restaurant_market_analysis.html)**
+
+
 # Data
 
 object_name — establishment name <br>
@@ -29,4 +32,3 @@ ____
 - sys, 
 - warnings<br>
 
-[Project notebook](https://ulfsky.github.io/restaurant_market_analysis/restaurant_market_analysis.html)

@@ -1,5 +1,7 @@
 **This repository contains projects that have been done for Practicum Yandex100 training program.**
 
+**[Project notebook](https://ulfsky.github.io/ab_testing/ab_testing.html)**
+
 # Data
 
 Hypotheses — brief descriptions of the hypotheses<br>
@@ -31,4 +33,3 @@ ____
 - plotly.express, 
 - seaborn
 
-[Project notebook](https://ulfsky.github.io/ab_testing/ab_testing.html)

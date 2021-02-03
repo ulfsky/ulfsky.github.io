@@ -1,5 +1,8 @@
 **This repository contains projects that have been done for Practicum Yandex100 training program.**
 
+**[Project notebook](https://ulfsky.github.io/taxi_market/taxi_market.html)**
+
+
 # Data
 project_sql_result_01.csv. It contains the following data:
 company_name: taxi company name<br>
@@ -32,5 +35,3 @@ ____
 - scipy, 
 - seaborn, 
 - squarify 
-
-[Project notebook](https://ulfsky.github.io/taxi_market/taxi_market.html)

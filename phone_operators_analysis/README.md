@@ -1,5 +1,8 @@
 **This repository contains projects that have been done for Practicum Yandex100 training program.**
 
+**[Project notebook](https://ulfsky.github.io/phone_operators_analysis/phone_operators_analysis.html)**
+
+
 # Data
 The data is stored in 2 tables. 
 
@@ -49,4 +52,3 @@ ____
 - math, 
 - plotly
 
-[Project notebook](https://ulfsky.github.io/phone_operators_analysis/phone_operators_analysis.html)

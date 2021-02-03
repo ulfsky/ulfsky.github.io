@@ -1,5 +1,8 @@
 **This repository contains projects that have been done for Practicum Yandex100 training program.**
 
+**[Project notebook](https://ulfsky.github.io/trending_youtube_videos/trending_youtube_videos.html)**
+
+
 # Data<br>
 
 Dashboard data content:<br>
@@ -29,4 +32,4 @@ ____
 - pandas<br>
 - sqlalchemy
 
-[Project notebook](https://ulfsky.github.io/trending_youtube_videos/trending_youtube_videos.html)
+

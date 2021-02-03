@@ -3,6 +3,8 @@
 
 ## Certificate
 
+[GitHub Repository](https://github.com/ulfsky/ulfsky.github.io)
+
 **This repository contains projects that have been done for Practicum Yandex100 training program by Natalie Ulfskiy.**
 
 I’m a natural analyst graduated from Yandex100, a 9-month intensive online exclusive program designed to train 100 talents to be successful Data Analysts. <br>
@@ -24,9 +26,6 @@ List of projects:
 |**[Trending youtube videos](/trending_youtube_videos)** | analyze trending-video history on YouTube [Tableau dashboard](https://public.tableau.com/profile/nulf#!/vizhome/Practicum_10/ProjectDashboard?publish=yes "Tableau viz") | sqlalchemy |
 | **[Gym churn prediction model (ML)](/gym_churn_prediction_model)** | The aim of the project is to develope a customer interaction strategy based on analytical data for gym chain Model Fitness. We will develope a model for predicting the probability of churn (for the upcoming month) for each customer.|pandas,IPython.display, plotly.express, plotly, matplotlib, numpy, median, scipy, seaborn, math, plotly.subplots, sklearn, scipy |
 | **[Phone operators analysis](/phone_operators_analysis)**| Study of effectivness of phone operators for a virtual telephony service. [Tableau dashboard](https://public.tableau.com/profile/nulf#!/vizhome/YandexPracticum100Final/CallMeMaybe?publish=yes "Tableau viz") |pandas, IPython.display, scipy, matplotlib, numpy, functools, stats, seaborn, math, plotly|
-
-
-[GitHub Repository](https://github.com/ulfsky/ulfsky.github.io)
 
 
 **For more information please visit my [Linkedin profile](https://www.linkedin.com/in/ulfskiy)**

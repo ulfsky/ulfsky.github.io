@@ -1,5 +1,8 @@
 **This repository contains projects that have been done for Practicum Yandex100 training program.**
 
+**[Project notebook](https://ulfsky.github.io/gym_churn_prediction_model/gym_churn_prediction_model.html)**
+
+
 # Data
 
 
@@ -43,4 +46,4 @@ ____
 - sklearn<br>
 - scipy<br>
 
-[Project notebook](https://ulfsky.github.io/gym_churn_prediction_model/gym_churn_prediction_model.html)
+
